@@ -13,6 +13,7 @@
   position: absolute;
   z-index: 1000;
   right: 50%;
+  top: 50%;
   transform: translate(60%, -60%);
 }
 .container .homeMap {
